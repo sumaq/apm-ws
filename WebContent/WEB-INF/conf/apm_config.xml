@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="ISO-8859-1"?>
 <database>
 <host>192.168.0.10</host>
-<dbName>your.db</dbName>
+<dbName>your.db.name</dbName>
 <user>your.user</user>
 <password>your.pass</password>
 </database>
